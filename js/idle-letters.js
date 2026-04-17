@@ -13,10 +13,10 @@
   /** Added to idle delay on each scroll that erodes stamps (not on normal page scroll). */
   const IDLE_PENALTY_MS = 200;
   const ERODE_FRAC = 0.022;
-  const ERODE_MIN = 50;
-  const ERODE_MAX = 72;
-  const RESIDUE_FADE_MIN_MS = 2000;
-  const RESIDUE_FADE_MAX_MS = 4000;
+  const ERODE_MIN = 2;
+  const ERODE_MAX = 20;
+  const RESIDUE_FADE_MIN_MS = 20000;
+  const RESIDUE_FADE_MAX_MS = 40000;
   /**
    * Representative subword units: space-prefixed GPT/BPE chunks, ## WordPiece
    * suffixes, SentencePiece ▁ word pieces, and common byte-pair merges.
