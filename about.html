@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="AI-rLAB — About." />
+    <title>About — AI-rLAB</title>
+    <link rel="icon" href="favicon.io" />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body class="page-inner page-about">
+    <a class="skip-link" href="#main">Skip to main content</a>
+
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-logo" href="index.html">AI-rLAB</a>
+        <nav class="site-nav" aria-label="Primary">
+          <ul>
+            <li class="site-nav__item">
+              <a href="news.html">News</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="publications.html">Publications</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="work.html">Work</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="about.html" aria-current="page">About</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="about-page">
+      <div class="about-columns" aria-label="About and team">
+        <div class="about-columns__pane about-columns__pane--left">
+          <h1>About</h1>
+          <div id="about-intro" class="about-intro"></div>
+          <div
+            class="about-prose"
+            id="about-prose"
+            aria-label="About the lab"
+          ></div>
+        </div>
+        <div class="about-columns__pane about-columns__pane--right">
+          <h2 id="team" class="about-subhead about-page__subhead">Team</h2>
+          <div
+            class="about-team-scroll"
+            aria-label="Team list, scrolls continuously"
+          >
+            <section
+              id="team-directory"
+              class="team-feed team-feed--about"
+              aria-label="Lab team directory"
+              aria-live="polite"
+            ></section>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <p class="site-footer__note"><span data-year></span> AI-rLAB</p>
+    </footer>
+
+    <script src="js/main.js" defer></script>
+    <script src="js/idle-letters.js" defer></script>
+    <script src="js/about.js" defer></script>
+    <script src="js/team.js" defer></script>
+  </body>
+</html>

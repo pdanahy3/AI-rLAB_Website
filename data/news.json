@@ -1,0 +1,128 @@
+{
+  "items": [
+    {
+      "date": "2026-01-15",
+      "type": "other",
+      "title": "BKFF AI in Higher Education Fellowship: AI-enabled design ideation and robotic fabrication",
+      "summary": "Georgia Tech profile of the Bill Kent Family Foundation fellowship cohort, including work embedding AI-driven design and robotic fabrication into architectural pedagogy, ethics, and studio instruction.",
+      "url": "https://www.c21u.gatech.edu/news/2026/01/ideas-impact-bkff-ai-fellowship",
+      "urlLabel": "Center for 21st Century Universities"
+    },
+    {
+      "date": "2025-11-01",
+      "type": "exhibition",
+      "title": "“Figural Assemblage” at Georgia Tech Library",
+      "summary": "Installation video and prints in a group show context; work also listed for Korean Foundation Gallery, Seoul, and GT Library Media Bridge / Interactive Media Zone per CV.",
+      "links": [
+        {
+          "url": "https://library.gatech.edu/",
+          "label": "Georgia Tech Library"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "type": "talk",
+      "title": "Invited lecture — University of Kentucky",
+      "summary": "Public lecture series and workshop on advanced digital modeling and AI image-based workflows (undergraduate architecture).",
+      "url": "https://www.facebook.com/Architectureuky/videos/next-architecture_uky-lecture-series-workshop-_-join-us-as-we-welcome-patrick-da/963623405948837/",
+      "urlLabel": "UKy Architecture (video)"
+    },
+    {
+      "date": "2025-09-05",
+      "type": "exhibition",
+      "title": "Solo exhibition: “Anomalies & Order: Grammars of Anonymous Architectures”",
+      "summary": "Opening at the Mebane Gallery, UT Austin School of Architecture, in conjunction with the broader “Planetary Imaginaries” public programming season.",
+      "links": [
+        {
+          "url": "https://soa.utexas.edu/news/announcing-planetary-imaginaries",
+          "label": "UT SOA announcement"
+        },
+        {
+          "url": "https://www.e-flux.com/announcements/6784051/fall-2025-public-programming-planetary-imaginaries",
+          "label": "e-flux: Fall 2025 programming"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "type": "paper",
+      "title": "Weitzman news: “Robotic Fabrication and Architectural Design” and MSD-RAS research",
+      "summary": "Penn Weitzman post highlighting the ORO Editions volume edited by Robert Stuart-Smith showcasing MSD-RAS design research; lab director contributed to the volume.",
+      "url": "https://www.design.upenn.edu/post/robotic-fabrication-and-architectural-design-presents-design-research-msd-ras-program",
+      "urlLabel": "Weitzman School of Design"
+    },
+    {
+      "date": "2025-05-01",
+      "type": "award",
+      "title": "Georgia Tech student thank-you note (faculty impact)",
+      "summary": "Recognition listed on CV: Thank You Note (Student Acknowledgement of Faculty Support and Impact), Georgia Institute of Technology, 2025.",
+      "url": "https://www.arch.gatech.edu/",
+      "urlLabel": "Georgia Tech School of Architecture"
+    },
+    {
+      "date": "2025-03-01",
+      "type": "other",
+      "title": "Research profile — Georgia Institute of Technology",
+      "summary": "Institutional research directory entry: computation, robotics, and machine learning in architecture; Georgia Tech School of Architecture.",
+      "url": "https://www.research.gatech.edu/people/patrick-danahy",
+      "urlLabel": "Georgia Tech Research"
+    },
+    {
+      "date": "2024-06-12",
+      "type": "award",
+      "title": "Next Generation Indie Book Awards — Arts category (Purple Architecture)",
+      "summary": "Edited volume Purple Architecture: Design in the Age of the Physical-Virtual Continuum (ETC Press) won in the Arts category; includes chapter “Faustian Aesthetics” co-authored with J. Billingsley.",
+      "url": "https://news.wsu.edu/announcements/a-purple-architecture-is-the-best-art-book-of-2023/",
+      "urlLabel": "WSU Insider (award coverage)"
+    },
+    {
+      "date": "2023-10-13",
+      "type": "talk",
+      "title": "CAAD Forum: “Grammar — Observations on Machine Learning”",
+      "summary": "Center for American Architecture and Design forum at UT Austin on ML, 3D scanning, and architectural categorization, building on TRAITS / Innsbruck research themes.",
+      "url": "https://soa.utexas.edu/events/caad-forum-patrick-danahy",
+      "urlLabel": "UT SOA event"
+    },
+    {
+      "date": "2023-08-15",
+      "type": "other",
+      "title": "Meet Patrick Danahy — Emerging Scholar in Design, UT Austin",
+      "summary": "Faculty spotlight for the 2023–2025 lecturer appointment; background in computational design, robotics, and teaching innovation.",
+      "url": "https://soa.utexas.edu/news/meet-patrick-danahy",
+      "urlLabel": "UT SOA news"
+    },
+    {
+      "date": "2023-04-01",
+      "type": "other",
+      "title": "UT Austin welcomes new faculty cohort (2023–24)",
+      "summary": "University-level announcement noting new School of Architecture hires including Emerging Scholars in Design.",
+      "url": "https://news.utexas.edu/2023/08/16/ut-austin-welcomes-over-200-esteemed-new-faculty-for-the-2023-24-academic-year/",
+      "urlLabel": "UT Austin News"
+    },
+    {
+      "date": "2022-12-07",
+      "type": "conference",
+      "title": "TRAITS — Post digital neo baroque, University of Innsbruck",
+      "summary": "Conference and exhibition context for “Machined Aesthetics” and related machined-assemblies research track (FWF-PEEK Postdigital Neobaroque project).",
+      "url": "https://www.uibk.ac.at/projects/postdigital_neobaroque/traits-conference-schedule.html",
+      "urlLabel": "Conference schedule"
+    },
+    {
+      "date": "2019-10-01",
+      "type": "exhibition",
+      "title": "“Aesthetics of Prosthetics” — Pratt Institute (group exhibition)",
+      "summary": "Exhibition coverage and related press on prosthetics, aesthetics, and computational design themes tied to exhibited student work.",
+      "links": [
+        {
+          "url": "https://www.archpaper.com/2019/10/pratt-soa-aesthetic-of-prosthetics/",
+          "label": "The Architect’s Newspaper"
+        },
+        {
+          "url": "https://www.platjournal.com/eightpointfive/aesthetics-of-prosthetics",
+          "label": "PLAT Journal"
+        }
+      ]
+    }
+  ]
+}

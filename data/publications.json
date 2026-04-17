@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "year": 2026,
+      "citation": "Seifert, C., et al. (2026). Latent maps for architectural reasoning: Multi-modal precedent retrieval as real-time context for design. CAADRIA 2026, Taiwan. (Accepted / forthcoming.)",
+      "url": "https://caadria.org/",
+      "urlLabel": "CAADRIA"
+    },
+    {
+      "year": 2025,
+      "citation": "Seifert, C., & Danahy, P. (2025). Synthetic vision: Recovering latent geometry in architectural heritage fragments. Advances in Architectural Geometry (AAG 2025), MIT, Boston, MA. (Presented / forthcoming proceedings.)",
+      "url": "https://www.architecturalgeometry.org/",
+      "urlLabel": "AAG"
+    },
+    {
+      "year": 2025,
+      "citation": "Danahy, P. (2025). The creative art of forgetting: On the role of AI today. EMPTY SET Vol. 1: Decay.",
+      "url": "https://www.emptysetmag.com/",
+      "urlLabel": "EMPTY SET Magazine"
+    },
+    {
+      "year": 2024,
+      "citation": "Stuart-Smith, R. (2024). Aerial additive manufacturing. In Behavioural Production. Routledge. (Book chapter extending related aerial AM research.)",
+      "doi": "10.4324/9781003028291-9",
+      "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9781003028291-9/aerial-additive-manufacturing-robert-stuart-smith",
+      "urlLabel": "Publisher page"
+    },
+    {
+      "year": 2024,
+      "citation": "Stuart-Smith, R. (Ed.). (2024). Robotic fabrication and architectural design: Integrated approaches to fabrication, computation, and architectural design. ORO Editions. (Contributor.)",
+      "url": "https://oroeditions.com/",
+      "urlLabel": "ORO Editions"
+    },
+    {
+      "year": 2024,
+      "citation": "Danahy, P. (2024). Feature-based geometry sorting using autoencoders: A view based approach to found-object fitting. SIGRADI 2024: Biodigital Intelligent Systems, Barcelona.",
+      "doi": "10.52842/conf.sigradi.2024.1199"
+    },
+    {
+      "year": 2024,
+      "citation": "Danahy, P. (2024). Episodic memory and the loops of meaning. POOL: Loops, UCLA Architecture and Urban Design, pp. 32–37.",
+      "url": "https://www.aud.ucla.edu/",
+      "urlLabel": "UCLA AUD"
+    },
+    {
+      "year": 2024,
+      "citation": "Danahy, P. (2024). From theory to practice: Shaping generative AI in design education. PLATFORM, University of Texas at Austin School of Architecture.",
+      "url": "https://soa.utexas.edu/",
+      "urlLabel": "UT SOA"
+    },
+    {
+      "year": 2023,
+      "citation": "Danahy, P., & Billingsley, J. (2023). Faustian aesthetics: Through the machine’s semantic severance. In J. F. Kerestes, E. Poustinchi, & V. Vahdat (Eds.), Purple architecture: Design in the age of the physical-virtual continuum (pp. 66–75). Carnegie Mellon University ETC Press.",
+      "url": "https://press.etc.cmu.edu/books/purple-architecture",
+      "urlLabel": "ETC Press (open access)"
+    },
+    {
+      "year": 2022,
+      "citation": "Stuart-Smith, R., Darekar, D., Danahy, P., Kocer, B. B., Pawar, V., & Kovac, M. (2022). Collective aerial additive manufacturing. In M. Akbarzadeh, D. Aviv, H. Jamelle, & R. Stuart-Smith (Eds.), Proceedings of the 42nd Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA): Hybrids and haecceities (pp. 44–55). Philadelphia, PA.",
+      "doi": "10.52842/conf.acadia.2022.1.044",
+      "url": "http://papers.cumincad.org/cgi-bin/works/paper/acadia22_44",
+      "urlLabel": "Full text (CumInCAD)"
+    },
+    {
+      "year": 2023,
+      "citation": "Danahy, P. (2023). Machined aesthetics: A machine learning survey of the Art Nouveau. TRAITS: Post digital neo baroque, University of Innsbruck.",
+      "url": "https://www.uibk.ac.at/projects/postdigital_neobaroque/traits-conference.html",
+      "urlLabel": "TRAITS conference"
+    },
+    {
+      "year": 2023,
+      "citation": "Stuart-Smith, R., & Danahy, P. (2023). 3D generative design for non-experts: Multiview perceptual similarity with agent-based reinforcement learning. SIGRADI 2022: Critical appropriations, Lima, Peru. Blucher Design Proceedings.",
+      "doi": "10.5151/sigradi2022-sigradi2022_53"
+    },
+    {
+      "year": 2022,
+      "citation": "Stuart-Smith, R., & Danahy, P. (2022). Visual character analysis within algorithmic design: Quantifying aesthetics relative to structural and geometric design criteria. CAADRIA 2022: Post-carbon, Sydney, Australia.",
+      "doi": "10.52842/conf.caadria.2022.1.131",
+      "url": "http://papers.cumincad.org/cgi-bin/works/paper/caadria2022_227",
+      "urlLabel": "Full text (CumInCAD)"
+    },
+    {
+      "year": 2022,
+      "citation": "Stuart-Smith, R., Darekar, D., Danahy, P., Kocer, B., Pawar, V., & Kovac, M. (2022). Collective aerial additive manufacturing (CAAM). IEEE International Conference on Robotics and Automation (ICRA 2022), Philadelphia, PA. (Workshop presentation.)",
+      "url": "https://cei.ece.cornell.edu/crc-workshop22/",
+      "urlLabel": "ICRA CRC workshop"
+    },
+    {
+      "year": 2020,
+      "citation": "Stuart-Smith, R., Danahy, P., & Revelo La Rotta, N. (2020). Topological and material formation: A generative design framework for additive manufacturing integrating material-physics simulation and structural analysis. ACADIA 2020: Distributed proximities (pp. 290–299).",
+      "doi": "10.52842/conf.acadia.2020.1.290",
+      "url": "http://papers.cumincad.org/cgi-bin/works/paper/acadia20_290",
+      "urlLabel": "Full text (CumInCAD)"
+    }
+  ]
+}

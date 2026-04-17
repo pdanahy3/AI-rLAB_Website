@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="AI-rLAB — News." />
+    <title>News — AI-rLAB</title>
+    <link rel="icon" href="favicon.io" />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body class="page-inner">
+    <a class="skip-link" href="#main">Skip to main content</a>
+
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-logo" href="index.html">AI-rLAB</a>
+        <nav class="site-nav" aria-label="Primary">
+          <ul>
+            <li class="site-nav__item">
+              <a href="news.html" aria-current="page">News</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="publications.html">Publications</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="work.html">Work</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="about.html">About</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <h1>News</h1>
+      <section
+        id="news-feed"
+        class="news-feed"
+        aria-label="News posts"
+        aria-live="polite"
+      ></section>
+    </main>
+
+    <footer class="site-footer">
+      <p class="site-footer__note"><span data-year></span> AI-rLAB</p>
+    </footer>
+
+    <script src="js/main.js" defer></script>
+    <script src="js/idle-letters.js" defer></script>
+    <script src="js/news.js" defer></script>
+  </body>
+</html>

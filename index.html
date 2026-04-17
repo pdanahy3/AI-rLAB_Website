@@ -5,12 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="AI-rLAB — research lab website. Content and pages will expand over time."
+      content="AI-rLAB — research lab website."
     />
     <title>AI-rLAB</title>
+    <link rel="icon" href="favicon.io" />
     <link rel="stylesheet" href="css/styles.css" />
   </head>
-  <body>
+  <body class="page-home">
     <a class="skip-link" href="#main">Skip to main content</a>
 
     <header class="site-header">
@@ -18,7 +19,18 @@
         <a class="site-logo" href="index.html">AI-rLAB</a>
         <nav class="site-nav" aria-label="Primary">
           <ul>
-            <li><a href="index.html" aria-current="page">Home</a></li>
+            <li class="site-nav__item">
+              <a href="news.html">News</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="publications.html">Publications</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="work.html">Work</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="about.html">About</a>
+            </li>
           </ul>
         </nav>
       </div>
@@ -26,31 +38,64 @@
 
     <main id="main">
       <section class="hero" aria-labelledby="hero-heading">
-        <div class="hero__media">
-          <!-- Add your image as assets/images/landing-hero.jpg (or update src below). See README for policies. -->
+        <figure class="hero__figure">
           <img
             class="hero__image"
-            src="assets/images/landing-hero.jpg"
-            alt="AI-rLAB — landing image. Replace this alt text when you add the real image."
+            src="assets/images/landing-hero-01.jpg"
+            alt="AI-rLAB landing photograph."
             width="1920"
             height="1080"
             loading="eager"
             decoding="async"
           />
+        </figure>
+        <div class="hero__intro">
+          <h1 id="hero-heading" class="hero__title title-display">AI-rLAB</h1>
+          <p class="hero__tagline">Research lab — content coming soon.</p>
         </div>
-        <div class="hero__overlay">
-          <h1 id="hero-heading" class="hero__title">AI-rLAB</h1>
-          <p class="hero__tagline">Research lab website — more content coming soon.</p>
+      </section>
+
+      <section
+        id="lab-gallery"
+        class="home-lab-gallery"
+        aria-label="Lab photography"
+      >
+        <div class="home-lab-gallery__panel">
+          <figure class="home-lab-gallery__figure">
+            <img
+              class="home-lab-gallery__image"
+              src="assets/images/lab-photos/feature.dfl-2709_0.jpg"
+              alt="Fabrication and robotics activity in the lab."
+              width="1920"
+              height="1080"
+              loading="lazy"
+              decoding="async"
+            />
+          </figure>
+        </div>
+        <div class="home-lab-gallery__panel">
+          <figure class="home-lab-gallery__figure">
+            <img
+              class="home-lab-gallery__image"
+              src="assets/images/lab-photos/DFL_OLD_1536x864.jpg"
+              alt="Design lab environment and equipment."
+              width="1536"
+              height="864"
+              loading="lazy"
+              decoding="async"
+            />
+          </figure>
         </div>
       </section>
     </main>
 
     <footer class="site-footer">
       <p class="site-footer__note">
-        <span data-year></span> AI-rLAB. Hosted with GitHub Pages.
+        <span data-year></span> AI-rLAB
       </p>
     </footer>
 
     <script src="js/main.js" defer></script>
+    <script src="js/idle-letters.js" defer></script>
   </body>
 </html>

@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "order": 1,
+      "name": "Patrick Danahy",
+      "role": "Director",
+      "bio": "Patrick Danahy is an Assistant Professor of Architecture at the Georgia Institute of Technology. Previously, he has held positions as the Emerging Scholar in Design at the University of Texas at Austin, the Design Innovation Fellow at Ball State University and a Lecturer at the University of Pennsylvania. Patrick holds a Bachelor of Arts in Architecture from Clemson University, and a Master of Architecture from the University of Pennsylvania, where he received the Kanter-Tritsch Prize in Energy and Architectural Innovation, the Paul Cret T-Square Fellowship, the Van Alen Traveling Fellowship, the Dales Fellowship, the Kohn Fellowship, the Schenk-Woodman Merit Award and upon graduating was awarded the Arthur Spayd Brooke Memorial Silver Medal. In 2022, he was selected as the distinguished professor of an Advanced Design Studio at Texas A&M University, where he received the ‘Best Design Studio’ award for that year. He has taught workshops on emerging media and digital technologies including at the 2022 ACADIA conference, the UCL Bartlett RC20 Skills-Share program, the University of Kentucky, the University of Texas at Austin, Texas A&M University, the University of Michigan and the University of Pennsylvania. His teaching focuses on computation and robotics, integrating architectural reference with emerging machine-learning technologies. Patrick's research has been presented in international conferences including Digital Futures Young, ACADIA, ICRA, TRAITS Post Digital Neobaroque, SIGRADI and CAADRIA, where his team received the award for best presentation runner up. His work has been exhibited internationally at the Venice Biennale, the ENVD Gallery at the University of Colorado Boulder, at the Month of Modern, and in galleries at the Pratt Institute, Ball State University, the University of Texas and the University of Pennsylvania.",
+      "website": "https://patrickdanahy.com",
+      "photo": "danahy_headshot_bw2.jpg"
+    },
+    {
+      "order": 2,
+      "name": "Changda Ma",
+      "role": "Graduate Research Assistant 2026 - ",
+      "bio": "Optional one-line bio.",
+      "photo": "headshot-placeholder.svg"
+    },
+    {
+      "order": 3,
+      "name": "Example Collaborator",
+      "role": "Affiliated faculty",
+      "bio": "",
+      "photo": "headshot-placeholder.svg"
+    }
+  ]
+}
